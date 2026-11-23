@@ -1,0 +1,22 @@
+# Polymarket (prediction market, 中国大陆被封锁)
+DOMAIN-SUFFIX,polymarket.com
+DOMAIN-SUFFIX,polymarket.us
+# Polymarket 充值链路（跨链桥 / 银行卡买币 / 内置钱包），出口需与主站一致
+DOMAIN-SUFFIX,relay.link
+DOMAIN-SUFFIX,moonpay.com
+DOMAIN-SUFFIX,magic.link
+
+DOMAIN-SUFFIX,bet365.com
+DOMAIN-SUFFIX,bet365.es
+DOMAIN-SUFFIX,bet365.it
+DOMAIN-SUFFIX,bet365.gr
+DOMAIN-SUFFIX,bet365.mx
+DOMAIN-SUFFIX,bet365.dk
+DOMAIN-SUFFIX,bet365.nl
+DOMAIN-SUFFIX,365sport365.com
+DOMAIN-SUFFIX,sport365-stream.com
+DOMAIN-SUFFIX,365sb.com
+DOMAIN-SUFFIX,365sb.dk
+DOMAIN-SUFFIX,365sb.nl
+DOMAIN-SUFFIX,365sb.gr
+DOMAIN-SUFFIX,365sb.mx

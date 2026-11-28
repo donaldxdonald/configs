@@ -1,0 +1,13 @@
+profile:
+  store-selected: true
+proxy-providers:
+  home-tailnet:
+    type: inline
+    health-check:
+      enable: false
+    payload:
+      - name: TS-Home
+        type: tailscale
+        accept-routes: true
+        udp: true
+        state-dir: ./tailscale
